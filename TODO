@@ -1,4 +1,4 @@
-## -*- mode: Text -*-
+ ##-#- mode: Text -*-
 
 This file is not expected to be interseting/useful for people other
 than Csmith's developers.  It's not particularly up to date either.
@@ -50,7 +50,7 @@ than Csmith's developers.  It's not particularly up to date either.
 
 - generate switch statments with random fallthroughs
 
-- generate "register" and "inline" -- trivial!
+- generate "register" and "inline" -- trivial*
 
 - generate memset, memcpy, bzero, sizeof, etc.
 
@@ -171,3 +171,4 @@ We should either:
 -------------------------------------------------------------------------------
 
 ## End of file.
+ 
